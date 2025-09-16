@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **QuickBlog** to help me bundle up my writings.
 
-- 🌱 I’m currently learning **evering about APIs.**
+- 🌱 I’m currently learning **everything about APIs.**
 
 - 💬 Ask me about **everything tech**
 
