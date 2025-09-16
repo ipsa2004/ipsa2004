@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ipsa!!</h1>
-<h3 align="center">Just a frontend developer yet.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1e/bb/ad/1ebbadda5cbd38662d07f54f0ee14679.gif">
+<h3 align="center">Exploring full-stack!</h3>
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/1e/bb/ad/1ebbadda5cbd38662d07f54f0ee14679.gif">
 
-- 🔭 I’m currently working on **WearGrace**
+- 🔭 I’m currently working on **QuickBlog** to help me bundle up my writings.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **evering about APIs.**
 
 - 💬 Ask me about **everything tech**
 
