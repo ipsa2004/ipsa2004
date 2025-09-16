@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ipsa!!</h1>
 <h3 align="center">Exploring full-stack!</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/1e/bb/ad/1ebbadda5cbd38662d07f54f0ee14679.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1e/bb/ad/1ebbadda5cbd38662d07f54f0ee14679.gif">
 
 - 🔭 I’m currently working on **QuickBlog** to help me bundle up my writings.
 
